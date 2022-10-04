@@ -27,7 +27,8 @@ Architecture Diagram
 Alternative Architecture Diagram
 ![image](https://user-images.githubusercontent.com/42748797/193893477-063c64e3-debe-4f4c-a48e-751d586bd65f.png)
 
-References
+References:
+
 https://en.wikipedia.org/wiki/Lambda_architecture
 https://aws.amazon.com/blogs/aws/new-export-amazon-dynamodb-table-data-to-data-lake-amazon-s3/
 https://www.youtube.com/watch?v=UvWJjZKjQLc&t=597s
