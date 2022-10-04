@@ -8,3 +8,4 @@ The streaming data from the IOT device will be received by AWS DynamoDB. Then th
 Then AWS GLUE will be used to create a table on the S3 data using a crawler. Athena will be used to create a view with required format on the table created by AWS Glue. 
 Finally, AWS QuickSight will be used to create visualization on the view created by Athena.
 Alternative Approach will be to use AWS Kinesis instead of DynamoDB to store the streaming data into S3.
+![image](https://user-images.githubusercontent.com/42748797/193892560-8df09b76-f43d-4c54-ab4a-dec992762717.png)
